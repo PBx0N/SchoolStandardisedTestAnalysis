@@ -1,8 +1,9 @@
 # SchoolStandardisedTestAnalysis
-Using Pandas and Jupyter Notebooks to analyse standardised test in district wide schools. 
+Using Pandas and Jupyter Notebooks to analyse standardised test in district wide schools. The csv data are drawned from two csv files in Resources folder.
 The outcome will show results of a high level snapshot of the entire district and of each school based on key metrics. 
 It will also show top 5 best and worst schools based on the overall passing rate. 
 There are also break downs of key metrics. 
+Results will be shown directly on Jupyter notebook. 
 
 # Two Observable trends based on the data
   1. Given the provided data, we can conclude that the students in charter type school have a much higher passing rate overall and scored better in both Math and Reading tests than the district school.
